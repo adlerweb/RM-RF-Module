@@ -1,4 +1,3 @@
-@@ -0,0 +1,41 @@
 # RM-RF-Module
 
 This system can be used to add RF functionality to ordinary photoelectric smoke detectors based on the widespread MC145010 IC or its derivatives.
